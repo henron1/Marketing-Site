@@ -19,8 +19,8 @@ export function CallToAction() {
             Get started today
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            If you&lsquo;'re a creator or wanting to learn an instrument we have the best platform
-            to suit your needs.
+            If you are a creator or wanting to learn an instrument we have the best platform to suit
+            your needs.
           </p>
           <Button href="/register" color="white" className="mt-10">
             Get 6 months free
