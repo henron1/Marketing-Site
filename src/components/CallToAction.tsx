@@ -8,11 +8,7 @@ export function CallToAction() {
   };
 
   return (
-    <section
-      id="get-started-today"
-      className="relative overflow-hidden bg-blue-600 py-32"
-      style={gradientStyle}
-    >
+    <section id="get-started-today" className="py-32" style={gradientStyle}>
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
